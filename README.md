@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/hannescam/hannes-chat/total)
+![GitHub all releases](https://img.shields.io/github/downloads/hannescam/snake-led/total)
 # snake-led
 a snake for the rpi-rgb-led-matrix library
 
