@@ -23,3 +23,8 @@ To clean, execute the following command.
 ```bash
 make clean
 ```
+To execute, (it doesnt allways need sudo) and you can use normal rpi-rgb-led-matrix options afterwards.
+
+```bash
+sudo snake
+```
