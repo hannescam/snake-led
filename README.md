@@ -2,10 +2,11 @@
 # snake-led
 - a snake for the rpi-rgb-led-matrix library
 - the controll is with the keyboard with WASD keys (like the most games).
-- it is needed to have this in the same folder with the rpi-rgb-led-matrix while compiling afterwards it isnt needed,
+- at the compile time put it in the include folder of https://github.com/hzeller/rpi-rgb-led-matrix,
 - or just download the binary file (for raspbian 64 bit) so pi zero 2, 3 and 4,
 - i havent tested it with anything other than a pi 3b+ but should work with all pis.
 - it is based on: https://github.com/HailTheBDFL/esp32-snake
+- if you have any questions dont hezitate to open a new issue
 ## Installation
 To compile, execute the following command.
 
